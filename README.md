@@ -14,7 +14,7 @@
 
 
 * Logistic Regression Model:
-  * The logistic regression model predicts the `0` healthy loan almost perfectly. The precision indicates all loans predicted as healthy are in fact healthy, and the recall shows that almost all healthy loans are being found. The `1` high-risk loans still did fairly well with a precision of `.85` and a recall of `.91`, but not as accurate or complete as the healthy loans.
+  * The logistic regression model predicts the `0` healthy loan almost perfectly. The precision indicates all loans predicted as healthy are in fact healthy (`1.0` precision), and the `0.99` recall shows that almost all healthy loans are being found. The `1` high-risk loans still did fairly well with a precision of `.85` and a recall of `.91`, but not as accurate or complete as the healthy loans.
 
 ## Final Thoughts
 
